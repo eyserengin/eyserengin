@@ -4,7 +4,7 @@ I'm Osman Eyser Engin, an ordinary person who interested in Computer Science & T
 
 To be in contact, please refer to ✉️ eyserengn@gmail.com
 
-  <summary>🚀 Technologies & Tools</summary>
+  🚀 Technologies & Tools
 
   ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -30,4 +30,3 @@ To be in contact, please refer to ✉️ eyserengn@gmail.com
 
 
   [![eyserengin's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=eyserengin&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
-  [![Your HackerRank Stats](https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb28f0ae.svg)](https://www.hackerrank.com/osmaneyserengin)
