@@ -28,4 +28,4 @@ To be in contact, please refer to ✉️ eyserengn@gmail.com
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/eyserengin?theme=unicorn&font=baloo&extension=null)
+ ## ![LeetCode Stats](https://leetcode.card.workers.dev/eyserengin?theme=unicorn&font=baloo&extension=null)
