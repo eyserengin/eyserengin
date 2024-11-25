@@ -13,6 +13,9 @@ To be in contact, please refer to ✉️ eyserengn@gmail.com
   [![LeetCode](https://img.shields.io/badge/LeetCode-02569B?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/[eyserengin]/)
   
   ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
   [![SQL ve PostgreSQL Badge](https://img.shields.io/badge/-SQL%20%7C%20PostgreSQL-336791?style=for-the-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 
